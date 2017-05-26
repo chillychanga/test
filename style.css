@@ -89,6 +89,11 @@ li {
   margin: 0;
   list-style: none;
 }
-footer {
-  text-align: center;
+
+#footer {
+    max-width: 980px;
+    text-align: center;
+    margin: auto;
+	color: #FFF;
+	font-family:  'Pontano Sans', sans-serif;
 }
